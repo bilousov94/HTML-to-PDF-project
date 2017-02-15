@@ -1,0 +1,36 @@
+.article .featuredImage {
+    width: 12%;
+    float: left;
+    margin: 1.5%;
+    max-width: 80px;
+}
+
+.article .featuredImage img {
+    max-width: 100%;
+    border-radius: 50px;
+}
+
+.article .articleContent {
+    width: 70%;
+    float: left;
+    opacity: 0.9;
+}
+
+.article:not(:last-child) {
+    border-bottom: 1px solid rgba(204, 204, 204, 0.62);
+}
+
+.article .impressions {
+    width: 15%;
+    float: right;
+    font-size: 22px;
+    margin-top: 15px;
+    text-align: right;
+    color: #bdbdbd;
+}
+
+.article:hover {
+    padding: 0 2%;
+    background-color: #9de898;
+    opacity: 1;
+}

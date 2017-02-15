@@ -1,0 +1,33 @@
+
+#main_content{
+    margin-top: 51px;
+}
+
+.contact_inf {
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+
+.card_templ {
+    background-color: whitesmoke;
+    border: solid 1px black;
+    width: 450px;
+    height: 250px;
+    margin: auto;
+}
+
+
+
