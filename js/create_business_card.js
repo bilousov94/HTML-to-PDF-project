@@ -120,7 +120,7 @@ $(document).ready(function(){
              //  window.location.href = "card.html";
 
                 if(currentUser){
-                    window.location.href = "card.html";
+                    window.location.href = "card-page/card.html";
                 }
                 else {
                     alert("Please Login");
