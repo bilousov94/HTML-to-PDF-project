@@ -18,7 +18,7 @@ var homePage = {
 
                 '<div class="carousel-inner" role="listbox">' +
                     '<div class="item active">' +
-                        '<img src="../img/city.jpg" alt="City"  class="slide-image"/>' +
+                        '<img src="img/city.jpg" alt="City"  class="slide-image"/>' +
                         '<div class="bs-slider-overlay"></div>' +
                         ' <div class="container">' +
                             '<div class="row">' +
@@ -31,7 +31,7 @@ var homePage = {
                     '</div>' +
 
                     '<div class="item">' +
-                        '<img src="../img/news.jpg" alt="news"  class="slide-image"/>' +
+                        '<img src="img/news.jpg" alt="news"  class="slide-image"/>' +
                         '<div class="bs-slider-overlay"></div>' +
                         ' <div class="slide-text slide_style_left">' +
                             '<h1 data-animation="animated flipInX">Check the latest news from Wall street journal</h1>' +
@@ -39,7 +39,7 @@ var homePage = {
                     '</div>' +
 
                     '<div class="item">' +
-                        '<img src="../img/data.jpg" alt="data"  class="slide-image"/>' +
+                        '<img src="img/data.jpg" alt="data"  class="slide-image"/>' +
                         '<div class="bs-slider-overlay"></div>' +
                         '<div class="slide-text slide_style_right">' +
                             '<h1 data-animation="animated zoomInLeft">Create your business cards</h1>' +
@@ -66,9 +66,9 @@ var homePage = {
             // portfolio of business cards
             '<h1 class = "text-center">Top designs</h1>' +
             '<div class = "container-fluid text-center">' +
-                '<img src="../img/business-cards/first.jpg" class="img-rounded examples">' +
-                '<img src="../img/business-cards/second.jpg" class="img-rounded examples">' +
-                '<img src="../img/business-cards/third.jpg" class="img-rounded examples">' +
+                '<img src="img/business-cards/first.jpg" class="img-rounded examples">' +
+                '<img src="img/business-cards/second.jpg" class="img-rounded examples">' +
+                '<img src="img/business-cards/third.jpg" class="img-rounded examples">' +
                 '<img src="img/business-cards/four.jpg" class="img-rounded examples">' +
         '</div>' +
                 '<br>' +
