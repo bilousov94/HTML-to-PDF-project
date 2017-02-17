@@ -69,7 +69,7 @@ var homePage = {
                 '<img src="../img/business-cards/first.jpg" class="img-rounded examples">' +
                 '<img src="../img/business-cards/second.jpg" class="img-rounded examples">' +
                 '<img src="../img/business-cards/third.jpg" class="img-rounded examples">' +
-                '<img src="../img/business-cards/four.jpg" class="img-rounded examples">' +
+                '<img src="img/business-cards/four.jpg" class="img-rounded examples">' +
         '</div>' +
                 '<br>' +
 
